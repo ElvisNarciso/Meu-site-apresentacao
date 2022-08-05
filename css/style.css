@@ -484,7 +484,7 @@ h3.my-profession{
     text-align: justify;
     color: var(--text-black-700);
     letter-spacing: normal;
-    word-spacing: -2px
+    word-spacing: -5px
 }
 /*Service*/
 .service .container{
